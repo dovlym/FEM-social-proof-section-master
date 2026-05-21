@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-[My Solution](https://dovelm.github.io/FEM-social-proof-section-master)
+[My Solution](https://dovlym.github.io/FEM-social-proof-section-master)
 
 
 ## My process
